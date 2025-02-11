@@ -1,4 +1,5 @@
 import Foundation
+import CoreFoundation
 
 /// Decodes a JWT into an object that holds the decoded body, along with the header and signature.
 ///
